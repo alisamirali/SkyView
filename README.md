@@ -1,52 +1,42 @@
-# Weather-App-React-Native
+# SkyView
 
-![Image](https://cdn.dribbble.com/userupload/6958364/file/original-9ca93c2dd96a84d5364670135de826d4.png?resize=1600x1200)
+## React Native Weather App
 
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/953vyZMO4cM" target="_blank">Weather App in React Native</a>
-    </p>
-    
-  </p>
-  
+With SkyView, you can effortlessly access accurate and up-to-date weather information for any location worldwide.
 
-## Get Started
 
-install dev dependencies
+### Getting Started
 
-### `npm install` or `yarn install`
+To get started with the app, clone the repo:
 
-## Then
+```
+$ git clone https://github.com/alisamirali/SkyView.git
+$ cd SkyView
+```
 
-go to https://www.weatherapi.com . create an account and get the api key then use that api key in constants/index.js file
+Then install the dependencies:
 
-## Then
+```
+$ npm install
+```
 
-Run The app
+### Running the App
 
-### `npm start` or `yarn start`
+To run the app, start the Expo development server:
 
-Runs your app in development mode.
+```
+$ npm start
+```
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+This will open the Expo Developer Tools in your browser. You can then use an iOS or Android simulator, or scan the QR code on your physical device to open the app.
 
-#### `npm run ios` or `yarn run ios`
+![SkyView](https://github.com/alisamirali/SkyView/assets/62913154/137ced87-0483-43e1-a268-894560a6deb6)
 
-Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+### Running the App from Expo
 
-#### `npm run android` or `yarn run android`
+To run the app from Expo, follow these steps:
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
-
-<br />
-
-💙 If you like this project, give it a ⭐ and share it with friends!
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/codewithnomi_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
-<a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
+1. Install the Expo client app on your iOS or Android device.
+2. Open the Expo client app and sign in or create an account.
+3. Click on this link to open the app: [https://expo.dev/@dev_alisamir/sky-view].
+4. The app will load and you can use it on your device.
